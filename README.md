@@ -1,6 +1,6 @@
 # juzicloud桔子云官网地址
 
-最新地址：[juzi610.com](https://juziyun996.xyz/auth/register?code=uiT6)
+最新地址：[juzi610.com](https://juziyun808.com/auth/register?code=uiT6)
 
 ## 简介
 
