@@ -41,35 +41,35 @@
 <tr>
 <td style="text-align: center; width: 165px;">入门版</td>
 <td style="text-align: center; width: 86px;">100G</td>
-<td style="text-align: center; width: 112px;">3</td>
+<td style="text-align: center; width: 112px;">2</td>
 <td style="text-align: center; width: 82px;">19.9元</td>
 <td style="text-align: center; width: 543px;">国内中转/入门版节点</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 165px;">基本版</td>
 <td style="text-align: center; width: 86px;">200G</td>
-<td style="text-align: center; width: 112px;">5</td>
+<td style="text-align: center; width: 112px;">3</td>
 <td style="text-align: center; width: 82px;">29.9元</td>
 <td style="text-align: center; width: 543px;">国内中转/入门版/基础版节点</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 165px;">标准版</td>
 <td style="text-align: center; width: 86px;">350G</td>
-<td style="text-align: center; width: 112px;">8</td>
+<td style="text-align: center; width: 112px;">5</td>
 <td style="text-align: center; width: 82px;">39.9元</td>
 <td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 165px;">旗舰版</td>
 <td style="text-align: center; width: 86px;">600G</td>
-<td style="text-align: center; width: 112px;">16</td>
+<td style="text-align: center; width: 112px;">8</td>
 <td style="text-align: center; width: 82px;">59.9元</td>
 <td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点/IPLC专线</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 165px;">旗舰版大流量</td>
 <td style="text-align: center; width: 86px;">1200G</td>
-<td style="text-align: center; width: 112px;">16</td>
+<td style="text-align: center; width: 112px;">10</td>
 <td style="text-align: center; width: 82px;">99.9元</td>
 <td style="text-align: center; width: 543px;">除以上所有节点外，还有老板专线</td>
 </tr>
